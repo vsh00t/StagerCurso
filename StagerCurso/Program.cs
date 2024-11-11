@@ -180,8 +180,4 @@ namespace Custom_Stager
             }
         }
     }
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> d048a4f45229b5d95054541a28852d46158a4d35
