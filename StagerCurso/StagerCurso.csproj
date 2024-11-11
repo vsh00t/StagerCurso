@@ -30,6 +30,13 @@
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
+<PropertyGroup>
+    <PublishSingleFile>true</PublishSingleFile>
+    <SelfContained>true</SelfContained>
+    <RuntimeIdentifier>win-x64</RuntimeIdentifier>
+    <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
+    <PublishTrimmed>true</PublishTrimmed> 
+</PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
