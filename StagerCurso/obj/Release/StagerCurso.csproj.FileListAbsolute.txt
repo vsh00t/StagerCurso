@@ -1,0 +1,4 @@
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\Release\StagerCurso.csproj.AssemblyReference.cache
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\Release\StagerCurso.csproj.CoreCompileInputs.cache
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\Release\StagerCurso.exe
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\Release\StagerCurso.pdb

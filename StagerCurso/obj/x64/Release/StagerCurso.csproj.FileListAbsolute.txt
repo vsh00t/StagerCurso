@@ -1,0 +1,17 @@
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\StagerCurso.exe.config
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\StagerCurso.exe.manifest
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\StagerCurso.application
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\StagerCurso.exe
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\StagerCurso.pdb
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\DnsClient.dll
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\System.Buffers.dll
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\DnsClient.xml
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\bin\x64\Release\System.Buffers.xml
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.csproj.AssemblyReference.cache
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.csproj.CoreCompileInputs.cache
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.TrustInfo.xml
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.exe.manifest
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.application
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.csproj.CopyComplete
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.exe
+C:\Users\ji_mo\OneDrive\Escritorio\StagerCurso1\StagerCurso\StagerCurso\obj\x64\Release\StagerCurso.pdb
